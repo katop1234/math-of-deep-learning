@@ -1,4 +1,4 @@
-# Math of Deep Learning
+# Mathematics of Deep Learning
 
 Complete deepdive into the fundamentals of deep learning and information geometry.
 
